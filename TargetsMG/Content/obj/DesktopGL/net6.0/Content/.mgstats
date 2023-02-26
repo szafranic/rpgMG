@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/strmy/Projects/TargetsMG/TargetsMG/Content/bg.png","/Users/strmy/Projects/TargetsMG/TargetsMG/Content/bin/DesktopGL/Content/bg.xnb","TextureProcessor","Texture2DContent",3695,524373,0.232867
+"/Users/strmy/Projects/TargetsMG/TargetsMG/Content/m.png","/Users/strmy/Projects/TargetsMG/TargetsMG/Content/bin/DesktopGL/Content/m.xnb","TextureProcessor","Texture2DContent",606,16469,0.002073
+"/Users/strmy/Projects/TargetsMG/TargetsMG/Content/w.png","/Users/strmy/Projects/TargetsMG/TargetsMG/Content/bin/DesktopGL/Content/w.xnb","TextureProcessor","Texture2DContent",433,4181,0.001516

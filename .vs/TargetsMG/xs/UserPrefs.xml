@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E0A521FF-D29C-4C4D-9EBD-7BB26B0F082F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TargetsMG PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TargetsMG/Core/Camera.cs">
+    <Files>
+      <File FileName="TargetsMG/Game1.cs" Line="81" Column="44" />
+      <File FileName="TargetsMG/Sprites/Sprite.cs" Line="2" Column="1" />
+      <File FileName="TargetsMG/Sprites/Player.cs" Line="37" Column="25" />
+      <File FileName="TargetsMG/Core/Camera.cs" Line="20" Column="26" />
+      <File FileName="TargetsMG/Component.cs" Line="6" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TargetsMG" expanded="True">
+            <Node name="TargetsMG" expanded="True">
+              <Node name="Content" expanded="True" />
+              <Node name="Core" expanded="True" />
+              <Node name="Sprites" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
